@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    margin-bottom: 2px;
+}
+div{
+    display: flex;
+    height: 250px;
+    width: 100px;
+    margin-top: 0px;
+}
