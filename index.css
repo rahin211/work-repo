@@ -1,11 +1,15 @@
 h1{
     text-align: center;
-    background-color: aqua;
-    margin-bottom: 2px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: green;
+    color: honeydew;
 }
 div{
     display: flex;
-    height: 250px;
-    width: 100px;
+}
+.one{
+    height: 200px;
+    width: 337px;
     margin-top: 0px;
 }
